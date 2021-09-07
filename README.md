@@ -179,6 +179,25 @@ console.log( v );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/blas/ext/base/dsnansum`][@stdlib/blas/ext/base/dsnansum]: calculate the sum of single-precision floating-point strided array elements, ignoring NaN values, using extended accumulation, and returning an extended precision result.
+-   [`@stdlib/blas/ext/base/sdssum`][@stdlib/blas/ext/base/sdssum]: calculate the sum of single-precision floating-point strided array elements using extended accumulation.
+-   [`@stdlib/blas/ext/base/ssum`][@stdlib/blas/ext/base/ssum]: calculate the sum of single-precision floating-point strided array elements.
+-   [`@stdlib/stats/base/dsmean`][@stdlib/stats/base/dsmean]: calculate the arithmetic mean of a single-precision floating-point strided array using extended accumulation and returning an extended precision result.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -237,6 +256,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/float32]: https://github.com/stdlib-js/array-float32
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
+
+<!-- <related-links> -->
+
+[@stdlib/blas/ext/base/dsnansum]: https://github.com/stdlib-js/blas-ext-base-dsnansum
+
+[@stdlib/blas/ext/base/sdssum]: https://github.com/stdlib-js/blas-ext-base-sdssum
+
+[@stdlib/blas/ext/base/ssum]: https://github.com/stdlib-js/blas-ext-base-ssum
+
+[@stdlib/stats/base/dsmean]: https://github.com/stdlib-js/stats-base-dsmean
+
+<!-- </related-links> -->
 
 </section>
 
