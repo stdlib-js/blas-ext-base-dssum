@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@stdlib/assert-is-error": "^0.2.2",
-    "@stdlib/blas-ext-base-dssumpw": "^0.2.1",
+    "@stdlib/blas-ext-base-dssumpw": "^0.2.2",
     "@stdlib/napi-argv": "^0.2.2",
     "@stdlib/napi-argv-int64": "^0.2.2",
     "@stdlib/napi-argv-strided-float32array": "^0.2.2",
