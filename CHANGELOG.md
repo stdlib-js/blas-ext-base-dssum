@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-27)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`80d95e6`](https://github.com/stdlib-js/stdlib/commit/80d95e66ee80a2e03c81f11844e0d54bd79029fc) - **test:** pass in missing opts for native tests _(by Philipp Burckhardt)_
 -   [`3d169cb`](https://github.com/stdlib-js/stdlib/commit/3d169cb917480674de265c6212d1f4e96cd4a654) - **test:** add signed zero tests _(by Athan Reines)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`1d8b212`](https://github.com/stdlib-js/stdlib/commit/1d8b2124adec6be1f3d639ab0b53146a7539f243) - **refactor:** update paths _(by Aayush Khanna)_
