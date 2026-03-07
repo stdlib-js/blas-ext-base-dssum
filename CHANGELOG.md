@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-01)
+## Unreleased (2026-03-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`92ddf0c`](https://github.com/stdlib-js/stdlib/commit/92ddf0ca0aaee22f4b2e533173a4eb6ee67cad44) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dssum` [(#10750)](https://github.com/stdlib-js/stdlib/pull/10750) _(by Prajjwal Bajpai)_
 -   [`ecc6654`](https://github.com/stdlib-js/stdlib/commit/ecc6654065495c2a63494ce53f2562b63283cbfc) - **bench:** refactor to use string interpolation in `blas/ext/base/dssum` [(#10595)](https://github.com/stdlib-js/stdlib/pull/10595) _(by Kamal Singh Rautela)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Kamal Singh Rautela
+-   Prajjwal Bajpai
 
 </section>
 
